@@ -4,7 +4,7 @@ A TextMate-bundle for the awesome Rails form builder extension "Formtastic". Wit
 
 h2. What is Formtastic?
 
-http://github.com/justinfrench/formtastic
+"http://github.com/justinfrench/formtastic":http://github.com/justinfrench/formtastic
 
 h2. Install this TextMate-bundle...
 
