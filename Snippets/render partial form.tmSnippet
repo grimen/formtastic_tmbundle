@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>= render '${1:form}', :${2:f} =&gt; ${3}f</string>
+	<key>name</key>
+	<string>render partial form (HAML)</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>fpart</string>
+	<key>uuid</key>
+	<string>0B87A4B3-9266-484D-A1EA-177EC94F1DC5</string>
+</dict>
+</plist>

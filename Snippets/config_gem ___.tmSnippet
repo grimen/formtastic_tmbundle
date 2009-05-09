@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>config.gem 'justinfrench-formtastic', :lib =&gt; 'formtastic', :source =&gt; 'http://gems.github.com'$0</string>
+	<key>name</key>
+	<string>config.gem ...</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>ftgem</string>
+	<key>uuid</key>
+	<string>3AF44C98-E7E8-4791-9796-57C0F4B3C3E9</string>
+</dict>
+</plist>

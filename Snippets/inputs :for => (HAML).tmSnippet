@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>- f.inputs${1: :name =&gt; '$2'}, :for =&gt; :$3 do |$4|
+	$0</string>
+	<key>name</key>
+	<string>inputs :for =&gt; (HAML)</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>inpsf</string>
+	<key>uuid</key>
+	<string>D95B777A-931A-47A2-8EB0-3E67C8E279BB</string>
+</dict>
+</plist>

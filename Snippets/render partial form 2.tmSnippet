@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>&lt;%= render '${1:form}', :f =&gt; f %&gt;</string>
+	<key>name</key>
+	<string>render partial form (ERB)</string>
+	<key>scope</key>
+	<string>text.html.ruby</string>
+	<key>tabTrigger</key>
+	<string>fpart</string>
+	<key>uuid</key>
+	<string>DBA6619C-BA57-489E-BA91-F6D48C8DE6F8</string>
+</dict>
+</plist>

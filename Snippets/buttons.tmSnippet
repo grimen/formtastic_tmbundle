@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>- f.buttons do
+	${1:= f.commit_button${2: '${3:Submit}'}}$0</string>
+	<key>name</key>
+	<string>buttons (HAML)</string>
+	<key>scope</key>
+	<string>text.haml</string>
+	<key>tabTrigger</key>
+	<string>buts</string>
+	<key>uuid</key>
+	<string>6CBB4B29-D536-4FA7-BACE-5D14960A2668</string>
+</dict>
+</plist>
