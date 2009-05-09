@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>= f.commit_button${1: '${2:Submit}'}$0</string>
 	<key>name</key>
-	<string>commit_button (HAML)</string>
+	<string>= f.commit_button (HAML)</string>
 	<key>scope</key>
 	<string>text.haml</string>
 	<key>tabTrigger</key>

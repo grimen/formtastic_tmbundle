@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;%= render '${1:form}', :f =&gt; f %&gt;</string>
+	<string>&lt;%= render '${1:form}', :${2:f} =&gt; ${3:f} %&gt;$0</string>
 	<key>name</key>
-	<string>render partial form (ERB)</string>
+	<string>= f.render partial form (ERB)</string>
 	<key>scope</key>
 	<string>text.html.ruby</string>
 	<key>tabTrigger</key>

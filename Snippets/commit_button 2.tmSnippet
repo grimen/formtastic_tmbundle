@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;%= f.commit_button${1: '${2:Submit}'}$0 %&gt;</string>
 	<key>name</key>
-	<string>commit_button (ERB)</string>
+	<string>= f.commit_button (ERB)</string>
 	<key>scope</key>
 	<string>text.html.ruby</string>
 	<key>tabTrigger</key>

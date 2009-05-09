@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>- f.inputs${1: :name =&gt; '$2'}, :for =&gt; :$3 do |$4|
+	<string>- f.inputs${1: :name =&gt; '$2'}, :for =&gt; :$3 do |${4:g}|
 	$0</string>
 	<key>name</key>
-	<string>inputs :for =&gt; (HAML)</string>
+	<string>f.inputs :for (HAML)</string>
 	<key>scope</key>
 	<string>text.haml</string>
 	<key>tabTrigger</key>

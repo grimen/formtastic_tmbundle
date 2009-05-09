@@ -7,7 +7,7 @@
 	${1:= f.commit_button${2: '${3:Submit}'}}
 &lt;% end %&gt;$0</string>
 	<key>name</key>
-	<string>buttons (ERB)</string>
+	<string>f.buttons (ERB)</string>
 	<key>scope</key>
 	<string>text.html.ruby</string>
 	<key>tabTrigger</key>

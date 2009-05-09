@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>= render '${1:form}', :${2:f} =&gt; ${3}f</string>
+	<string>= render '${1:form}', :${2:f} =&gt; ${3:f}$0</string>
 	<key>name</key>
-	<string>render partial form (HAML)</string>
+	<string>= f.render partial form (HAML)</string>
 	<key>scope</key>
 	<string>text.haml</string>
 	<key>tabTrigger</key>

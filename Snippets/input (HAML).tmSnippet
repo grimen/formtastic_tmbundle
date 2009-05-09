@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>= f.input :$1${2:, :label =&gt; '$3'}, :required =&gt; ${4:true}$0</string>
+	<string>.input :$1${2:, :label =&gt; '$3'}$0</string>
 	<key>name</key>
-	<string>= f.input :required =&gt; (HAML)</string>
+	<string>.input</string>
 	<key>scope</key>
-	<string>text.haml</string>
+	<string>text.haml,text.html.ruby</string>
 	<key>tabTrigger</key>
-	<string>inpr</string>
+	<string>.</string>
 	<key>uuid</key>
-	<string>377010D3-61D7-4AC9-9020-470B73DD60AE</string>
+	<string>E5A05CA9-57F9-48DA-9101-B1207AF75B19</string>
 </dict>
 </plist>

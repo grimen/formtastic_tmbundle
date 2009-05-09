@@ -6,7 +6,7 @@
 	<string>- f.buttons do
 	${1:= f.commit_button${2: '${3:Submit}'}}$0</string>
 	<key>name</key>
-	<string>buttons (HAML)</string>
+	<string>f.buttons (HAML)</string>
 	<key>scope</key>
 	<string>text.haml</string>
 	<key>tabTrigger</key>

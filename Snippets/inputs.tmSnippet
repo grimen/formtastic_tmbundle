@@ -6,7 +6,7 @@
 	<string>- f.inputs${1: :name =&gt; '$2'} do
 	$0</string>
 	<key>name</key>
-	<string>inputs (HAML)</string>
+	<string>f.inputs (HAML)</string>
 	<key>scope</key>
 	<string>text.haml</string>
 	<key>tabTrigger</key>

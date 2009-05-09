@@ -5,7 +5,7 @@
 	<key>content</key>
 	<string>&lt;%= f.input :$1${2:, :label =&gt; '$3'}, :required =&gt; ${4:true}$0 %&gt;</string>
 	<key>name</key>
-	<string>input :required =&gt; (ERB)</string>
+	<string>= f.input :required =&gt; (ERB)</string>
 	<key>scope</key>
 	<string>text.html.ruby</string>
 	<key>tabTrigger</key>

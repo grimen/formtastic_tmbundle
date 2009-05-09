@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>= f.input :$1${2:, :label =&gt; '$3'}, :required =&gt; ${4:true}$0</string>
+	<string>render '${1:form}', :${2:f} =&gt; ${3:f}$0</string>
 	<key>name</key>
-	<string>= f.input :required =&gt; (HAML)</string>
+	<string>render &lt;partial form&gt;</string>
 	<key>scope</key>
-	<string>text.haml</string>
+	<string>text.haml,text.html.ruby</string>
 	<key>tabTrigger</key>
-	<string>inpr</string>
+	<string>f.</string>
 	<key>uuid</key>
-	<string>377010D3-61D7-4AC9-9020-470B73DD60AE</string>
+	<string>9F89E5A6-B518-4183-A9F5-A94418FBC236</string>
 </dict>
 </plist>
