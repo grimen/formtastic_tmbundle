@@ -3,16 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;% f.buttons do %&gt;
-	${1:&lt;%= f.commit_button${2: '${3:Submit}'} %&gt;}
-&lt;% end %&gt;$0</string>
+	<string>:hint =&gt; '$1'$0</string>
 	<key>name</key>
-	<string>f.buttons (ERB)</string>
+	<string>:hint =&gt;</string>
 	<key>scope</key>
-	<string>text.html.ruby</string>
+	<string>text.haml, text.html.ruby</string>
 	<key>tabTrigger</key>
-	<string>buts</string>
+	<string>hint</string>
 	<key>uuid</key>
-	<string>CAC1B99E-9A18-41E5-AC60-DE16A5985DAD</string>
+	<string>FE80BBB7-7068-4108-9AB9-67C777FC9EAC</string>
 </dict>
 </plist>

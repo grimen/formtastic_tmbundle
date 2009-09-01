@@ -3,8 +3,8 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>&lt;% semantic_form_for(${1:@${2:object}}) do |${3:f}| %&gt;
-	$4
+	<string>&lt;% semantic_form_for(${1:@${2:object}}${3:, :html =&gt; {:method =&gt; ${4::put}}}) do |${5:f}| %&gt;
+	$6
 &lt;% end %&gt;$0</string>
 	<key>name</key>
 	<string>semantic_form_for (ERB)</string>
