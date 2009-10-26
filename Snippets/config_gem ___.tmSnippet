@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>config.gem 'formtastic', :source =&gt; 'http://gemcutter.com'$0</string>
+	<string>config.gem 'formtastic', :source =&gt; 'http://gemcutter.org'$0</string>
 	<key>name</key>
 	<string>config.gem ...</string>
 	<key>scope</key>
